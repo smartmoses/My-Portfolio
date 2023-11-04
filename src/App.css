@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  background: rgb(29, 0, 39);
+  font-weight: 700;
+}
+
+.nav-logo {
+  margin-right: 170px;
+  cursor: pointer;
+}
+
+.nav-item .nav-link {
+  margin: 0 9px;
+  color: gray;
+  font-weight: 600;
+}
+
+.nav-item .nav-link:hover {
+  color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 700px) {
+  .nav-logo {
+    margin-right: 0;
+  }
+}
+
+.hero-section {
+  color: #ffffff;
+  background-image: linear-gradient(rgba(22, 0, 30, 0.9), rgba(22, 0, 30, 0.95)),
+    url("./public/images/hero2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0 70px;
+}
+
+@media screen and (max-width: 700px) {
+  .hero-section {
+    padding: 0 27px;
+  }
+}
+
+.hero-section img {
+  border-radius: 50%;
+  box-shadow: 2px 2px 17px rgb(1, 96, 249, 0.5);
+  transition: 0.5s;
+}
+
+.hero-section img:hover {
+  box-shadow: 2px 2px 21px 3px rgb(1, 96, 249, 0.5);
+}
+
+.hero-section h1 {
+  font-weight: 800;
+  color: #0d6efd;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.hero-section h1:hover {
+  color: white;
+}
+
+@media screen and (max-width: 700px) {
+  .hero-secton input {
+    width: 100%;
+  }
+  .hero-section .btn {
+    width: 100%;
+  }
+}
+
+
+
+
+.about-me {
+  background: #d6d6d6;
+}
+
+
+
+.footer {
+  height: auto;
+  background: #484848;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+}
+
+.footer h2 {
+  color: white;
+}
+
+.footer input {
+  border-radius: 3px;
+  padding: 7px 6px;
+}
+
+
+.footer span {
+  font-size: 19px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer #footer-email {
+  margin: 13px 0;
+}
+
+.copy-right {
+  background: #121212;
+}
+.copy-right p {
+  font-weight: 600;
+  color: #f1f1f1;
+  margin: 0;
+  padding: 7px;
+}
+
+.btn-github {
+  border: 2px solid rgba(29, 0, 39),
+}
