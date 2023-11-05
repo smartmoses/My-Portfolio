@@ -5,7 +5,7 @@ const AboutMe = () => {
         <div className="container row p-2 m-auto">
           <div className=" col-lg-5 p-4">
             <img
-              src="./public/images/smartmoses.jpg"
+              src="https://img.playbook.com/eYalXos6AJ9DnRKj5b7jm4hiCBzO3Or8Pkl3TzEB8s8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2NiMWIzYTMy/LTBjOGYtNDVjNi1h/MTAzLWJlMDE3Y2Q3/MjJiMw"
               alt=""
               className="d-block img-fluid"
             />

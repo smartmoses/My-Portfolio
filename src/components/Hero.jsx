@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div className="col-sm-8 col-lg-5">
             <img
-              src="./public/images/smartmoses2.jpg" 
+              src="https://img.playbook.com/nAN5moxS-lf3pzJYm295XJjuUlU0Km3mSZlU97uq0BQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2JhNDhmN2Ri/LTg3MTYtNDczMy1i/YmZhLTFiN2M1ZDA3/ZjI1NA" 
               className="d-block img-fluid"
               alt="traveling images"
               loading="lazy"
