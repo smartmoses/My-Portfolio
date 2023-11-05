@@ -19,7 +19,7 @@ const Footer = () => {
               <br />
             </div>
           </div>
-          <div className="contact col-md-4">
+          <div className="contact col-md-5">
             <h2 className="fw-bold mb-3">Contact Info</h2>
             <div>
               <div className="fw-bold mb-3">

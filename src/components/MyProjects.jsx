@@ -16,11 +16,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://heartfelt-smakager-86191e.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://heartfelt-smakager-86191e.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/My-Portfolio.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/My-Portfolio.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -36,11 +42,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://aquamarine-cascaron-71f27f.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://aquamarine-cascaron-71f27f.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/Tourz-Africa-Landing-Page.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/Tourz-Africa-Landing-Page.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -56,11 +68,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://snazzy-marigold-5d7216.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://snazzy-marigold-5d7216.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/Movies-search-App.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/Movies-search-App.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github{" "}
               </a>
             </div>
           </div>
@@ -76,11 +94,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://astounding-dodol-f6646a.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://astounding-dodol-f6646a.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/BasicCalculator.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/BasicCalculator.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -96,11 +120,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://jazzy-piroshki-3b4b5d.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://jazzy-piroshki-3b4b5d.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/University-Website.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/University-Website.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -116,11 +146,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://amazing-muffin-9450c4.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://amazing-muffin-9450c4.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/Students-Counter-App.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/Students-Counter-App.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -136,11 +172,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://delicate-malabi-22bd75.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://delicate-malabi-22bd75.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/To-do-list.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/To-do-list.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -156,11 +198,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://lambent-starlight-40d82b.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://lambent-starlight-40d82b.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/Week-2-Task---Registation-Form.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/Week-2-Task---Registation-Form.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
@@ -176,11 +224,17 @@ const MyProjects = () => {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="https://lighthearted-concha-e1408c.netlify.app/" className="btn btn-primary">
+              <a
+                href="https://lighthearted-concha-e1408c.netlify.app/"
+                className="btn btn-primary"
+              >
                 View Site
               </a>
-              <a href="https://github.com/smartmoses/Google-Clone-Site.git" className="btn btn-outline-dark ms-1 float-end">
-                Github Code
+              <a
+                href="https://github.com/smartmoses/Google-Clone-Site.git"
+                className="btn btn-outline-dark ms-1 float-end"
+              >
+                Github
               </a>
             </div>
           </div>
